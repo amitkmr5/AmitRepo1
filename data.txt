@@ -1,0 +1,173 @@
+https://github.com/
+
+<project xmlns="http://maven.apache.org/POM/4.0.0
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance
+" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+ https://maven.apache.org/xsd/maven-4.0.0.xsd
+">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>20Jan_newAutomationMavenProject</groupId>
+  <artifactId>20Jan_newAutomationMavenProject</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  
+  
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+ -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.29.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.testng/testng
+ -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.11.0</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+ -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>5.4.0</version>
+</dependency>
+
+  
+  </dependencies>
+</project>
+
+
+
+
+https://www.w3.org/2001/XMLSchema-instance
+
+
+
+git hub-it is the website which is working as the central repository and all the codes are accessible throughout the member.
+git- it is a software which helps to communicate with the GitHub.
+
+Harsh johri, 7:53 PM
+GitHub   Build and ship software on a single, collaborative platform   GitHub
+<project xmlns="http://maven.apache.org/POM/4.0.0
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance
+" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+ https://maven.apache.org/xsd/maven-4.0.0.xsd
+">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>20Jan_newAutomationMavenProject</groupId>
+  <artifactId>20Jan_newAutomationMavenProject</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  
+  
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+ -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.29.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.testng/testng
+ -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.11.0</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+ -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>5.4.0</version>
+</dependency>
+
+  
+  </dependencies>
+</project>
+http://www.w3.org/2001/XMLSchema-instance
+Harsh johri, 7:56 PM
+git hub-it is the website which is working as the central repository and all the codes are accessible throughout the member.
+git- it is a software which helps to communicate with the GitHub.
+Harsh johri, 8:08 PM
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   firstpage.txt
+
+
+HP@DESKTOP-LV4VCP4 MINGW64 ~/Desktop/rohitAutomation (master)
+$ git commit -m "commiting first project"
+[master (root-commit) be1bc21] commiting first project
+ 1 file changed, 1 insertion(+)
+ create mode 100644 firstpage.txt
+
+HP@DESKTOP-LV4VCP4 MINGW64 ~/Desktop/rohitAutomation (master)
+$ git push origin branchname1
+error: src refspec branchname1 does not match any
+error: failed to push some refs to 'origin'
+
+HP@DESKTOP-LV4VCP4 MINGW64 ~/Desktop/rohitAutomation (master)
+$ git branch -M main
+
+HP@DESKTOP-LV4VCP4 MINGW64 ~/Desktop/rohitAutomation (main)
+$ git remote add origin https://github.com/govpandey1/rohitrepo.git
+
+
+HP@DESKTOP-LV4VCP4 MINGW64 ~/Desktop/rohitAutomation (main)
+$ git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 263 bytes | 87.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/govpandey1/rohitrepo.git
+
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+
+https://github.com/govpandey1/rohitrepo
+
+
+
+git init-to initialize the empty folder for git
+ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+git status -if will provide you the branch name info and the files which has not been commited
+git add .
+git commit -m "message"
+git push origin branchname
+
+git clone and specifiedurl
+
+git clone url
+git status
+git checkout -b branchname
+git add .
+git commit -m ""
+git push origin branchname
+create the pull request
+
+
+git branch  branchname
+git checkout branchname
+
+
+
+
+https://www.jenkins.io/download/
+
+
+https://localhost:8080/
+nehasingh
+aaaaaaaaaaaaaaaaa
+
